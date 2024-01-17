@@ -243,6 +243,7 @@ class MyApp extends StatelessWidget {
                   ),
                   const TextSpan(
                     text: 'E\n',
+
                     style: TextStyle(
                       color: Colors.red,
                       fontWeight: FontWeight.bold,
